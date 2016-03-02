@@ -1,0 +1,14 @@
+Final Project Description
+
+I will be making a website for the non-profit my friend and I are starting, the Growing Minds Initiative. The site will have the following pages:
+
+	-Home Page
+	-What we do
+	-Where we are (the about us page)
+	-Who we are
+	-Donate
+	-Sponsors 
+
+I'll be making the site using wordpress starting from a BlankSlate theme and building out the site accordingly. I'll be using PHP instead of traditional page-by-page html in order to build and maintain the site on the long-term once the class is over.
+
+I plan on there being an interactive top menu-bar using JS, a map of the world with hover features that shows where we operate (the US and Tanzania), hover features that shadow out the rest of the page when key features are hovered over, pop-up descriptions of things when either hovered or clicked on, and embedding paypal into the donation page.
